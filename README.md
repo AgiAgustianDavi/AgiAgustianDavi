@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Agi Agustian Davi
 
-<!--
-**AgiAgustianDavi/AgiAgustianDavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Data Analyst** passionate about transforming raw data into actionable insights, statistical analysis, and predictive modeling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 **Focus:** Data Analysis, Applied Statistics, & Machine Learning
+- 🛠️ **Tech Stack:** Python, SQL, Pandas, Statsmodels, & Visualization Tools
+- 📫 **How to reach me:** [Email Me](mailto:agidavi6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/agi-agustian-davi)
+
+---
+
+### 📊 Skills & Tools
+`Python` · `Pandas` · `SQL` · `Microsoft Excel`, `Power Query`, `Tableau`, `Power BI`, `Data Visualization` · `Statistical Analysis`
+
+---
+
+*“Turning complex data into clear stories.”*
