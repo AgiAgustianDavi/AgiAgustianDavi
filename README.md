@@ -11,7 +11,7 @@ An aspiring **Data Analyst** passionate about transforming raw data into actiona
 
 ---
 
-### 📊 Skills & Tools
+### Skills & Tools
 `Python` · `Pandas` · `SQL` · `Microsoft Excel`, `Power Query`, `Tableau`, `Power BI`, `Data Visualization` · `Statistical Analysis`
 
 ---
